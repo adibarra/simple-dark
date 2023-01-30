@@ -6,4 +6,4 @@
 ## Installation
 Go to [the releases](https://github.com/adibarra/simple-dark/releases) and download the latest version of the theme.
 
-Then, go to [`chrome://extensions`](chrome://extensions) and drag the downloaded file into the page. The theme will be automatically installed.
+Then, go to [`chrome://extensions`](chrome://extensions) and drag the downloaded `.crx` file into the page. The theme will be automatically installed.
